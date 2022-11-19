@@ -10,8 +10,9 @@ export default function Home() {
         <meta name="description" content="calculate your phone's carbon footprint" />
         <link rel="icon" href="" />
       </Head>
-
+      <header>Calculate your phone's carbon footprint</header>
       <main className={styles.main}>
+       
         
       </main>
 
